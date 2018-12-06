@@ -161,10 +161,23 @@ h1 {
 	font-size: 0.9em;
 }
 
-.footer a:not(:last-child) {
+.logos a:not(:last-child) {
 	margin-right: 2rem;
 }
 
-.footer img {
+.logos img {
 	height: 80px;
+}
+
+.legal {
+	margin-top: 3.5rem;
+}
+
+.legal a {
+	color: #ccc;
+	text-decoration: none;
+}
+
+.legal a:not(:last-child):after {
+	content: ' | ';
 }
