@@ -1,6 +1,5 @@
 * {
 	box-sizing: border-box;
-	line-height: 1;
 }
 
 body {
@@ -9,6 +8,7 @@ body {
 	background: #1a1919 url(gridtile_3x3.png);
 	color: #fff;
 	font-family: 'Source Code Pro', monospace;
+	line-height: 1;
 
 	display: flex;
 	flex: column;
@@ -152,6 +152,7 @@ h1 {
 	font-size: 1.2em;
 	margin-top: 2.5rem;
 	margin-bottom: 3.5rem;
+	line-height: 1.5;
 }
 
 .text-secondary {
