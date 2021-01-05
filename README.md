@@ -1,6 +1,3 @@
-# Hacktival (Teaser) Website
+# Hacktival Teaser Website
 
-Run locally:
-
-1. `npm install`
-2. `npm start`
+Open `index.html` locally in your browser to view the website.
